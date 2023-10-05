@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2641978806d5664428d3184e071b0435, type: 3}
+  m_Name: EnemyLeather
+  m_EditorClassIdentifier: 
+  _maxHealth: 25
+  _damage: 10
+  _speed: 4
+  _attackDelay: 0.7
+  _item: {fileID: 19514408689102549, guid: 78be2d5026659ab4fbae898162a2d206, type: 3}

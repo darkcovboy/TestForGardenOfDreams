@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86f0ea5758264364e91b2901b9a81b0e, type: 3}
+  m_Name: GameplaySceneContainer
+  m_EditorClassIdentifier: 
+  _playerPrefab: {fileID: 4253500196408419994, guid: 81ad9d3b122545f4a874d83ad386d305, type: 3}
+  _enemySpawner: {fileID: 3519393212308962912, guid: 3c16f5598d4dc264fa0a2781367f1825, type: 3}
